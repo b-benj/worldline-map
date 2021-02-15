@@ -38,6 +38,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.belote-rebelote.fr\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy ",
+                 "type":"string",
+                 "value":"src"
                 }],
          "type":"tilelayer",
          "visible":true,
