@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsitePolicy ",
                  "type":"string",
-                 "value":"src"
+                 "value":"src fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
