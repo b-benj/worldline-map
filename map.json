@@ -37,12 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.belote-rebelote.fr\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy ",
-                 "type":"string",
-                 "value":"src fullscreen"
+                 "value":"https:\/\/www.youtube.com\/embed\/Eb2UECN1WXQ"
                 }],
          "type":"tilelayer",
          "visible":true,
