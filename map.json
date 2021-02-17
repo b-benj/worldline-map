@@ -215,6 +215,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"Le Roi Lion - Lion est mort ce soir.MP3"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
