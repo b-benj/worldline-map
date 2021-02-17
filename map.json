@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/kaamelott-soundboard.2ec0b4.fr\/#son\/assiette_fromage"
                 }],
